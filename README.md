@@ -52,6 +52,4 @@ At the project root, serve the production build of your site:
 
 ```sh
 gatsby serve
-```# glade
-# glade
-# glade
+```
