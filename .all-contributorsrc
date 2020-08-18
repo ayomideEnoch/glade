@@ -1,0 +1,43 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "m0nica",
+      "name": "Monica Powell",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6998954?v=4",
+      "profile": "https://www.aboutmonica.com",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "jordan-paz",
+      "name": "Jordan Paz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/42680433?v=4",
+      "profile": "https://github.com/jordan-paz",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "omaratta212",
+      "name": "Omar Atta",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33264041?v=4",
+      "profile": "https://omaratta.me/resume",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "ambition-fund-website",
+  "projectOwner": "M0nica",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "none"
+}
