@@ -52,4 +52,8 @@ At the project root, serve the production build of your site:
 
 ```sh
 gatsby serve
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> 812b8bf4e19813330461707dde2078a5a4897e2e

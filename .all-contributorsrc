@@ -1,0 +1,17 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Ayomide",
+      "name": "Ayomide Ibosiola",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/6998954?v=4",
+      "profile": "https://www.react_ninjs.com",
+      "contributions": [
+        "code"
+      ]
+    },
+}
