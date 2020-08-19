@@ -52,6 +52,7 @@ At the project root, serve the production build of your site:
 
 ```sh
 gatsby serve
+```
 
 If you use NPM instead, install dependencies:
 
