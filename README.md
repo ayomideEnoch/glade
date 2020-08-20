@@ -1,5 +1,5 @@
 ## Glade [![Netlify Status](https://api.netlify.com/api/v1/badges/3ea135e7-e6a1-4cfa-96ed-d75e4de16ea8/deploy-status)]
-- [https://www.glade-netlify.com ](https://www.glade-netlify.com)
+- [https://glade.ebenezy.dev](https://glade.ebenezy.dev)
 
 -   Our mission is to increase access to free and low-cost educational and professional development opportunities within the technology industry. In particular, we are focused on supporting individuals who are pursuing careers in technology and identify as belonging to a community that has traditionally been underrepresented within the technology industry.
       
